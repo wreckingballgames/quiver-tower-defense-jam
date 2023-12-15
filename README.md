@@ -1,7 +1,12 @@
 ![Outpost Assault Thumbnail](https://uploads.quiver.dev/production/OutpostAssault_CoverArt_Updated.jpg)
 
+# Quiver Tower Defense Game Jam 2023
 
-# 2D Tower Defense Course for Godot 4
+My work for Quiver's tower defense game jam, based on their Outpost Assault code template. I plan to use this project to further my Godot skills, sharpen up my Git habits, and to put into practice what I'm learning from the book _A Playful Production Proceess_ by Richard Lemarchand.
+
+## Original README below
+
+## 2D Tower Defense Course for Godot 4
 ## Brought to you by Quiver
 This is the accompanying code base for the [2D tower defense course for Godot 4](https://quiver.dev/tutorials/make-a-2d-tower-defense-game-with-godot-4/).
 
