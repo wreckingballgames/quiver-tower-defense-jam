@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument ID="6C0DA3CE-85AA-41CF-A7A2-788921836F31" Version="1.2">
+   <Notes>
+      <Note ID="0" FontSize="12" Position="655.5,296.1" Width="111.328">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.743786 0.983612 0.629999</Fill>
+            <Border Weight="1">0.669413 0.885237 0.56701</Border>
+         </Appearance>
+         <String>Defend The Farm
+Dystopian setting</String>
+         <ConnectedNoteIDs>1-3</ConnectedNoteIDs>
+         <PointsToNoteIDs>1-3</PointsToNoteIDs>
+      </Note>
+      <Note ID="1" FontSize="12" Position="425.0,275.8" Width="94.9219">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.743297 0.900298 0.994537</Fill>
+            <Border Weight="1">0.668971 0.810269 0.895079</Border>
+         </Appearance>
+         <String>Game features</String>
+         <ConnectedNoteIDs>0, 6-7, 10, 13-15</ConnectedNoteIDs>
+         <PointsToNoteIDs>6-7, 14-15</PointsToNoteIDs>
+      </Note>
+      <Note ID="2" FontSize="12" Position="888.3,132.1" Width="80.0781">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.743297 0.900298 0.994537</Fill>
+            <Border Weight="1">0.668971 0.810269 0.895079</Border>
+         </Appearance>
+         <String>Tower types</String>
+         <ConnectedNoteIDs>0, 4-5, 22</ConnectedNoteIDs>
+      </Note>
+      <Note ID="3" FontSize="12" Position="921.9,430.5" Width="85.5469">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.743297 0.900298 0.994537</Fill>
+            <Border Weight="1">0.668971 0.810269 0.895079</Border>
+         </Appearance>
+         <String>Enemy types</String>
+         <ConnectedNoteIDs>0, 14, 20-21, 24-25, 27</ConnectedNoteIDs>
+      </Note>
+      <Note ID="4" FontSize="12" Position="869.5,9.4" Width="123.828">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Flamethrower tower</String>
+         <ConnectedNoteIDs>2, 5</ConnectedNoteIDs>
+      </Note>
+      <Note ID="5" FontSize="12" Position="1050.8,14.1" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Toxic sprayer tower (D.O.T.)</String>
+         <ConnectedNoteIDs>2, 4</ConnectedNoteIDs>
+      </Note>
+      <Note ID="6" FontSize="12" Position="210.2,547.7" Width="73.8281">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.97528 0.920302 0.624582</Fill>
+            <Border Weight="1">0.877745 0.828275 0.562127</Border>
+         </Appearance>
+         <String>NPC allies</String>
+         <ConnectedNoteIDs>1, 9-13, 23, 26</ConnectedNoteIDs>
+         <PointsToNoteIDs>26</PointsToNoteIDs>
+      </Note>
+      <Note ID="7" FontSize="12" Position="464.1,139.1" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.97528 0.920302 0.624582</Fill>
+            <Border Weight="1">0.877745 0.828275 0.562127</Border>
+         </Appearance>
+         <String>Placeable objects (besides towers)</String>
+         <ConnectedNoteIDs>1, 8, 19</ConnectedNoteIDs>
+      </Note>
+      <Note ID="8" FontSize="12" Position="382.0,22.7" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Scarecrow (attract &amp; explode)</String>
+         <ConnectedNoteIDs>7</ConnectedNoteIDs>
+      </Note>
+      <Note ID="9" FontSize="12" Position="446.1,696.1" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Allies placeable then act on their own</String>
+         <ConnectedNoteIDs>6, 14</ConnectedNoteIDs>
+      </Note>
+      <Note ID="10" FontSize="12" Position="331.3,482.9" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Ability to assume control of an ally then move and shoot</String>
+         <ConnectedNoteIDs>1, 6</ConnectedNoteIDs>
+      </Note>
+      <Note ID="11" FontSize="12" Position="135.9,705.5" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Allies a unique resource, do not cost money</String>
+         <ConnectedNoteIDs>6</ConnectedNoteIDs>
+      </Note>
+      <Note ID="12" FontSize="12" Position="48.4,469.6" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Non-combatant NPCs to protect for extra money during waves</String>
+         <ConnectedNoteIDs>6</ConnectedNoteIDs>
+      </Note>
+      <Note ID="14" FontSize="12" Position="666.4,393.0" Width="80.0781">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.97528 0.920302 0.624582</Fill>
+            <Border Weight="1">0.877745 0.828275 0.562127</Border>
+         </Appearance>
+         <String>Improved AI</String>
+         <ConnectedNoteIDs>1, 3, 9, 20</ConnectedNoteIDs>
+         <PointsToNoteIDs>20</PointsToNoteIDs>
+      </Note>
+      <Note ID="13" FontSize="12" Position="438.3,541.5" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>One key to toggle between buy mode and ally placement mode</String>
+         <ConnectedNoteIDs>1, 6</ConnectedNoteIDs>
+      </Note>
+      <Note ID="15" FontSize="12" Position="225.0,201.6" Width="80.8594">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.97528 0.920302 0.624582</Fill>
+            <Border Weight="1">0.877745 0.828275 0.562127</Border>
+         </Appearance>
+         <String>Improved UI</String>
+         <ConnectedNoteIDs>1, 16-18, 29</ConnectedNoteIDs>
+      </Note>
+      <Note ID="16" FontSize="12" Position="168.8,63.3" Width="116.016">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Wave countdowns</String>
+         <ConnectedNoteIDs>15</ConnectedNoteIDs>
+      </Note>
+      <Note ID="17" FontSize="12" Position="56.3,112.4" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Enemies remaining and total enemies this wave</String>
+         <ConnectedNoteIDs>15</ConnectedNoteIDs>
+      </Note>
+      <Note ID="18" FontSize="12" Position="23.4,188.9" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Indicators pointing to off-screen enemies when a small percentage of enemies are left</String>
+         <ConnectedNoteIDs>15</ConnectedNoteIDs>
+      </Note>
+      <Note ID="19" FontSize="12" Position="594.5,32.1" Width="68.3594">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Cage trap</String>
+         <ConnectedNoteIDs>7</ConnectedNoteIDs>
+      </Note>
+      <Note ID="20" FontSize="12" Position="826.6,702.4" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Enemy AI weighs routes to objective based on danger imposed by towers and route length; also weighs player allies and traps uniquely</String>
+         <ConnectedNoteIDs>3, 14, 21</ConnectedNoteIDs>
+      </Note>
+      <Note ID="21" FontSize="12" Position="1093.8,513.3" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Carrier aircraft which spawns enemies behind some towers</String>
+         <ConnectedNoteIDs>3, 20</ConnectedNoteIDs>
+      </Note>
+      <Note ID="22" FontSize="12" Position="1061.7,132.9" Width="105.078">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Flechette towers</String>
+         <ConnectedNoteIDs>2</ConnectedNoteIDs>
+      </Note>
+      <Note ID="23" FontSize="12" Position="30.5,585.2" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Pieces of a giant robot ally to recover from the map; send allies to carry it back like Pikmin</String>
+         <ConnectedNoteIDs>6</ConnectedNoteIDs>
+      </Note>
+      <Note ID="24" FontSize="12" Position="1103.9,331.3" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Sapper enemy which inflicts D.O.T. on friendly towers</String>
+         <ConnectedNoteIDs>3</ConnectedNoteIDs>
+      </Note>
+      <Note ID="25" FontSize="12" Position="1170.3,411.8" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Engineer enemy which builds enemy towers on empty tower slots</String>
+         <ConnectedNoteIDs>3</ConnectedNoteIDs>
+      </Note>
+      <Note ID="26" FontSize="12" Position="348.4,811.0" Width="67.5781">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Ally types</String>
+         <ConnectedNoteIDs>6, 27-28</ConnectedNoteIDs>
+      </Note>
+      <Note ID="27" FontSize="12" Position="539.8,791.5" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Copy all enemy types for starters</String>
+         <ConnectedNoteIDs>3, 26, 28</ConnectedNoteIDs>
+      </Note>
+      <Note ID="28" FontSize="12" Position="359.4,869.6" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Allies themed after desperate farmers; new allies placed in lower tiers than enemy copycats rather than higher, allies generally not as good as enemy units</String>
+         <ConnectedNoteIDs>26-27</ConnectedNoteIDs>
+      </Note>
+      <Note ID="29" FontSize="12" Position="149.2,301.6" Width="65.2344">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Mini-map</String>
+         <ConnectedNoteIDs>15</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <AutoFit>0-6, 14-16, 19, 22, 26, 29</AutoFit>
+   <NoteStyles>
+      <Style ID="566A57C7-01D6-483E-934C-3725D391814D" Name="Title Text" AffectSticky="No" AffectTextColor="No" AffectAlignment="Yes" AffectFontStyle="Yes" AffectNoteBody="No" AffectSize="No" AffectFade="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+      <Style ID="B6F70F29-C8FE-4781-97DB-87ACBA6EB2C4" Name="Bubble (Red)" AffectSticky="No" AffectTextColor="No" AffectAlignment="No" AffectFontStyle="No" AffectNoteBody="Yes" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+      <Style ID="FC786E6C-5AA4-4797-BB20-FB0D9B55B12D" Name="Bubble (Green)" AffectSticky="No" AffectTextColor="No" AffectAlignment="No" AffectFontStyle="No" AffectNoteBody="Yes" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style ID="1A9B7B2E-2156-4949-9C7D-6BEB38551CDD" Name="Bubble (Pink)" AffectSticky="No" AffectTextColor="No" AffectAlignment="No" AffectFontStyle="No" AffectNoteBody="Yes" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style ID="C4DE1FBF-8694-4FC3-AE4C-CAE5FB6CDE3C" Name="Bubble (Yellow)" AffectSticky="No" AffectTextColor="No" AffectAlignment="No" AffectFontStyle="No" AffectNoteBody="Yes" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+      <Style ID="D5EFA316-5734-4522-924A-DDDE149C7D2E" Name="Bubble (Blue)" AffectSticky="No" AffectTextColor="No" AffectAlignment="No" AffectFontStyle="No" AffectNoteBody="Yes" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style ID="8BAE31B3-CDB1-4D0E-B2A8-56F091BC78FF" Name="Red Text" AffectSticky="No" AffectTextColor="Yes" AffectAlignment="No" AffectFontStyle="No" AffectNoteBody="No" AffectSize="No" AffectFade="No">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>1.0 0.988373 0.949905</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+   </UISettings>
+   <PrintSettings HorizontallyCentered="Yes" Collates="Yes" BottomMargin="12.000000" PaperType="na-letter" HorizontalPagination="Clip" VerticallyCentered="Yes" RightMargin="12.000000" VerticalPagination="Auto" Orientation="Portrait" PaperSize="-1.000000,-1.000000" LeftMargin="12.000000" PagesDown="1" ScaleFactor="1.000000" TopMargin="12.000000" PagesAcross="1"/>
+</ScappleDocument>
