@@ -10,3 +10,4 @@
 6. Perform a form of automatism, writing a word association list automatically with the mind map open
 7. Research topics related to mind map and word list for up to an hour. Grab images that resonate with you
 8. Begin a mood board for the project (use Affinity Designer)
+9. Prototype, prototype, prototype
