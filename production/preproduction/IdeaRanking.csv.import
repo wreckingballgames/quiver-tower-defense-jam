@@ -1,0 +1,13 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://dv3ubtrrjhajh"
+
+[deps]
+
+source_file="res://production/preproduction/IdeaRanking.csv"
+[params]
+
+compress=true
+delimiter=0
