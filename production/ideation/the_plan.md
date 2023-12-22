@@ -11,3 +11,4 @@
 7. ~~Research topics related to mind map and word list for up to an hour. Grab images that resonate with you~~
 8. ~~Begin a mood board for the project (use Affinity Designer)~~
 9. Prototype, prototype, prototype
+10. Define experience goals & design goals
