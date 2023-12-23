@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d14h0lttk1sux"
-path="res://.godot/imported/mood_board.png-efe21413e8c72d0f56a6b8497136d1db.ctex"
+path="res://.godot/imported/mood_board.png-49f4acef88b53d6a5691d3ddc3ae3816.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://production/preproduction/mood_board/mood_board.png"
-dest_files=["res://.godot/imported/mood_board.png-efe21413e8c72d0f56a6b8497136d1db.ctex"]
+source_file="res://production/ideation/mood_board/mood_board.png"
+dest_files=["res://.godot/imported/mood_board.png-49f4acef88b53d6a5691d3ddc3ae3816.ctex"]
 
 [params]
 
