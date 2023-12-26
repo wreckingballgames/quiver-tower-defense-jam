@@ -16,15 +16,16 @@ func _physics_process(delta: float) -> void:
 
 func _unhandled_input(event: InputEvent) -> void:
 	if event is InputEventMouseButton:
-		if event.button_index == MOUSE_BUTTON_WHEEL_UP:
-			target_zoom = min(target_zoom + zoom_delta, max_zoom)
-		if event.button_index == MOUSE_BUTTON_WHEEL_DOWN:
-			target_zoom = max(target_zoom - zoom_delta, min_zoom)
 		if event.pressed:
 			if event.button_index == MOUSE_BUTTON_MIDDLE:
 				Input.set_default_cursor_shape(Input.CURSOR_DRAG)
 		elif event.button_index == MOUSE_BUTTON_MIDDLE:
 			Input.set_default_cursor_shape(Input.CURSOR_ARROW)
+	
+	if event.is_action("zoom_in"):
+		target_zoom = min(target_zoom + zoom_delta, max_zoom)
+	elif event.is_action("zoom_out"):
+		target_zoom = max(target_zoom - zoom_delta, min_zoom)
 	if event is InputEventMouseMotion and \
-			event.button_mask == MOUSE_BUTTON_MASK_MIDDLE:
+		event.button_mask == MOUSE_BUTTON_MASK_MIDDLE:
 		position -= event.relative * drag_speed / zoom
