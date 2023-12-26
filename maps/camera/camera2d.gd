@@ -17,15 +17,14 @@ func _physics_process(delta: float) -> void:
 	zoom.y = lerp(zoom.y, target_zoom, zoom_rate * delta)
 	
 	# Keyboard camera panning
-	if Input.is_action_pressed("pan_left"):
-		position += Vector2.LEFT * pan_speed / zoom
-	elif Input.is_action_pressed("pan_right"):
-		position += Vector2.RIGHT * pan_speed / zoom
+	var input_vector := Vector2.ZERO
+	var input_axis_horizontal: float = Input.get_axis("pan_left", "pan_right")
+	var input_axis_vertical: float = Input.get_axis("pan_up", "pan_down")
 	
-	if Input.is_action_pressed("pan_up"):
-		position += Vector2.UP * pan_speed / zoom
-	elif Input.is_action_pressed("pan_down"):
-		position += Vector2.DOWN * pan_speed / zoom
+	input_vector.x = input_axis_horizontal
+	input_vector.y = input_axis_vertical
+	input_vector = input_vector.normalized()
+	position += input_vector * pan_speed
 
 func _unhandled_input(event: InputEvent) -> void:
 	if event is InputEventMouseButton:
